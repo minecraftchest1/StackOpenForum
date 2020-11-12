@@ -1,0 +1,20 @@
+string DatabaseName;
+int DatabasePort;
+
+string GetQuestions()
+{
+    database db = new database;
+    db.Hostname(DatabaseName);
+    db.Port(DatabasePort);
+    db.Connect();
+    string[] Questions = db.get("where tablename=Questions print");
+    return Questions;
+}
+
+GetAnswers(int QuestionID)
+{
+    database db = new database;
+    db.Hostname(DatabaseName);
+    db.Port(DatabasePort)
+    db.connect();
+}
