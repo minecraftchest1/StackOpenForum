@@ -5,4 +5,4 @@ The goal of this project is to make an open source forum software that users tha
 This project is being worked on in my spare time. Pull requests are welcome.
 
 # Notice
-This project is low on my priority list. Therefore, I may not get much done right now. I expect to get really start working on this project next year.
+I am caneling this project as I have not put much work into it. I am also going to branch out into two repros if I continue.
